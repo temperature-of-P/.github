@@ -1,3 +1,6 @@
+https://docs.google.com/spreadsheets/d/16M-K2SrEuEkUq3czEgZT1YeG6jsjGCH5E7Q30FfjZDE/edit?hl=ko&pli=1&gid=808540550#gid=808540550
+https://docs.google.com/document/d/14ZNebgb8rTTlU852LHn613zxhfju2Ae0O12tgS9u4FI/edit?tab=t.0
+
 # 🛠️ 기술 스택 (Tech Stack)
 
 ## 디자인
